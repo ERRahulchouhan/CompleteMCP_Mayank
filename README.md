@@ -1,3 +1,6 @@
+# mcp we can nonnect in Claude Desktop via two ways either python or node
+
+
 # FastMCP with UV and Claude Desktop
 
 This file shows the exact commands to run a FastMCP server with `uv` and register it with Claude Desktop on Windows.
