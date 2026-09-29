@@ -1,4 +1,4 @@
-# mcp we can nonnect in Claude Desktop via two ways either python or node
+# mcp we can connect in Claude Desktop via two ways either python or node
 
 
 # FastMCP with UV and Claude Desktop
