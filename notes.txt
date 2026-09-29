@@ -1,0 +1,9 @@
+uv run --project "E:\AgenticAI_Mayank_Aggarwal\Live-Class-2026\Complete MCP\first-mcp-server" fastmcp install claude-desktop --config-path "C:\Users\rahul\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude" "E:\AgenticAI_Mayank_Aggarwal\Live-Class-2026\Complete MCP\first-mcp-server\recipebox_fastmcp.py"
+
+
+uv  run --with fastmcp fastmcp run "E:\AgenticAI_Mayank_Aggarwal\Live-Class-2026\Complete MCP\first-mcp-server\black_fastmcp.py"
+
+uv run --project "E:\AgenticAI_Mayank_Aggarwal\Live-Class-2026\Complete MCP\first-mcp-server" fastmcp install claude-desktop --config-path "C:\Users\rahul\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude" "E:\AgenticAI_Mayank_Aggarwal\Live-Class-2026\Complete MCP\first-mcp-server\black_fastmcp.py"
+
+
+uv run --project "E:\AgenticAI_Mayank_Aggarwal\Live-Class-2026\Complete MCP\first-mcp-server" fastmcp install claude-desktop --config-path "C:\Users\rahul\AppData\Local\Packages\Claude_pzs8sxrjxfjjc\LocalCache\Roaming\Claude" "E:\AgenticAI_Mayank_Aggarwal\Live-Class-2026\Complete MCP\first-mcp-server\black_fastmcp.py"
